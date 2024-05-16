@@ -66,10 +66,10 @@ jobs:
           
 
 
-    - name: automatic-version-bump-maven
+#    - name: automatic-version-bump-maven
   # You may pin to the exact commit or the version.
   # uses: MineEra-Corp/automatic-version-bump-maven@ac3a6603b94665f519005650f0b38cc152608b55
-      uses: MineEra-Corp/automatic-version-bump-maven@v1
+#      uses: MineEra-Corp/automatic-version-bump-maven@v1
           
  
 
