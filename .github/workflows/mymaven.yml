@@ -73,10 +73,10 @@ jobs:
           
  
 
-    - name: Maven Dependency Tree Dependency Submission
+#    - name: Maven Dependency Tree Dependency Submission
   # You may pin to the exact commit or the version.
   # uses: advanced-security/maven-dependency-submission-action@5d0f9011b55d6268922128af45275986303459c3
-      uses: advanced-security/maven-dependency-submission-action@v4.0.3
+#      uses: advanced-security/maven-dependency-submission-action@v4.0.3
 #  with:
     # The directory that contains the maven project
 #    directory: # optional, default is ${{ github.workspace }}
